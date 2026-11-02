@@ -1,0 +1,5 @@
+.DS_Store
+.build/
+dist/*.zip
+*.swp
+icon.iconset/
